@@ -20,7 +20,6 @@
  
  `ESPECIFICAÇÕES:`
  
-
 - [ ] Chip Principal: ESP8266;
     - [ ] Tensão de alimentação: 3.3V;
     - [ ] Potência de saída: +20dBm no modo 802.11b;
@@ -38,13 +37,15 @@
   
 [ Genius Project (game)](http://exemplo.com/)
 
+* O projeto irá exibir na tela Oled as informações do sensor-MQ2.Como o ESP01-8266 tem poucas portas(GPIO's), utilizei o Módulo ADS1115 para que o sensor MQ2 possa sair de um sinal analógico para um estado do protocolo I2C. Então, tanto o Oled é o sensor MQ2 ficam na mesma rede I2C.
+
 ```bash
 
-                           /--------------------------\      
-                          |                           |     
-              |\/\/\/|   /         THANK  YOU          \        
-              |      |   |                             |    
-              | (o)(o)   \_   _________________________/     
+                           /-------------\      
+                          |              |     
+              |\/\/\/|   /   THANK YOU   \        
+              |      |   |               |    
+              | (o)(o)   \_   ___________/     
               c      _)    | /                               
                | '___|    <_/                    
                |   /                          
