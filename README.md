@@ -11,20 +11,15 @@
 
 * O Módulo ESP8266 WiFi Serial, desenvolvido especialmente para conectar projetos robóticos ou de automação residencial com s (Internet). Ele é composto pelo chip ESP8266 preparado para comunicação sem fio de baixa potência, operando com a rede Wi-Fi em frequência de 2.4GHz, possuindo suporte a WPA e WPA2.
 
- <p align='center'>
-   <a href="https://twitter.com/MarciaMdsds"><img src="https://user-images.githubusercontent.com/81829451/134829881-ff24d670-2028-43cf-8816-24324e08f456.png" width="32px" height="32px"></a> 
-   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81829451/134829881-ff24d670-2028-43cf-8816-24324e08f456.png" width="500" height="250">
+</p>
 
 
-
-
-[ Genius Project (game)](http://exemplo.com/)
-
-
- 
  <hr>
  
-
+[ Genius Project (game)](http://exemplo.com/)
 
 ```bash
 
