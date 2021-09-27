@@ -16,9 +16,26 @@
 <img src="https://user-images.githubusercontent.com/81829451/134829881-ff24d670-2028-43cf-8816-24324e08f456.png" width="500" height="250">
 </p>
 
-
  <hr>
  
+ `ESPECIFICAÇÕES:`
+ 
+
+- [ ] Chip Principal: ESP8266;
+    - [ ] Tensão de alimentação: 3.3V;
+    - [ ] Potência de saída: +20dBm no modo 802.11b;
+    - [ ] Alcance: ~90 metros;
+    - [ ] Taxa de dados: 250kbps a 2mbit;
+    - [ ] Suporte à redes: 802.11 b/g/n;
+    - [ ] Consumo em Standby: <1.0mW;
+    - [ ] Processador: 32-bit CPU de baixa potência;
+    - [ ] Comunicação: Serial (TX/RX);
+    - [ ] Comunicação: TCP e UDP;
+    - [ ] Segurança: OPEN/WEP/WPA_PSK/WPA2_PSK/WPA_WPA2_PSK
+    - [ ] Temperatura de trabalho: -40 a 125ºC;
+    - [ ] Peso: 2g.
+  <hr>
+  
 [ Genius Project (game)](http://exemplo.com/)
 
 ```bash
