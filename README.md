@@ -35,15 +35,18 @@
     - [ ] Peso: 2g.
    
 <p align="center">
-<h2 align="center">PROJETOS COM ESP8266-ESP01 WiFi
-</h2>   
+<h4 align="center">PROJETOS COM ESP8266-ESP01 WiFi
+</h4>   
 </p>
-   
-  <hr>
+ <hr>
   
 [ESP01 WITH MQ2-OLED](https://github.com/mdsds-elt/ESP01-WiFi/tree/main/ESP01%20WITH%20MQ2-OLED)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81829451/134853656-b08d48e3-8db1-497e-b1d4-fb05e11db1ea.png" width="500" height="200">
+</p>
+- O projeto irá exibir na tela Oled as informações do sensor-MQ2. Como o ESP01-8266 tem poucas portas(GPIO's), utilizei o Módulo ADS1115 para que o sensor MQ2 possa sair de um sinal analógico para um estado do protocolo I2C. Então, tanto o Oled é o sensor MQ2 ficam na mesma rede I2C.
 
-* O projeto irá exibir na tela Oled as informações do sensor-MQ2.Como o ESP01-8266 tem poucas portas(GPIO's), utilizei o Módulo ADS1115 para que o sensor MQ2 possa sair de um sinal analógico para um estado do protocolo I2C. Então, tanto o Oled é o sensor MQ2 ficam na mesma rede I2C.
+ <hr>
 
 ```bash
 
